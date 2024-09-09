@@ -1,3 +1,5 @@
+**Big Ball of Mud**
+
 O artigo "Big Ball of Mud" de Brian Foote e Joseph Yoder discute o fenômeno comum de sistemas de software mal estruturados e desorganizados, conhecidos como "Big Ball of Mud". Esse termo é usado para descrever sistemas construídos sem uma arquitetura clara, onde o código é frequentemente remendado e expandido de forma improvisada, priorizando soluções rápidas em detrimento da qualidade arquitetural.
 
 A popularidade desse tipo de sistema é atribuída a fatores como prazos apertados, falta de experiência ou habilidades arquitetônicas dos desenvolvedores, e a complexidade inerente de certos domínios de software. Mesmo em sistemas inicialmente bem projetados, a constante evolução e as mudanças de requisitos podem levar à degradação estrutural, transformando-os em grandes bolas de lama.
